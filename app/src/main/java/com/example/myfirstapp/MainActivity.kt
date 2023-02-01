@@ -35,6 +35,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     MyFirstAppTheme {
-        Greeting("Android")
+        Greeting("Bob")
     }
 }
